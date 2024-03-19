@@ -4,7 +4,4 @@ services:
   nginx:
     image: webapp:latest
     ports:
-      - "8080:80"
-    volumes:
-      - ./build:/usr/share/nginx/html
-    command: ["nginx", "-g", "daemon off;"]
+      - "80:80"
