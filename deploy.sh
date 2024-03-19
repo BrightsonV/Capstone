@@ -1,1 +1,1 @@
-sudo docker-compose up -d webbapp
+sudo docker-compose up -d webapp
