@@ -1,1 +1,1 @@
-sudo docker build -t webbapp.
+sudo docker build -t webapp .

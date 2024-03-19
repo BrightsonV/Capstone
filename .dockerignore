@@ -1,0 +1,8 @@
+# Ignore Docker related files
+.dockerignore
+
+# Ignore node_modules directory for JavaScript projects
+node_modules/
+
+# Optional: Ignore npm-debug.log file (if it exists)
+npm-debug.log

@@ -1,0 +1,30 @@
+# Ignore node_modules directory for JavaScript projects
+node_modules/
+
+# Ignore any npm debug logs
+npm-debug.log
+
+# Ignore any local development environment files
+.env
+
+# Ignore any logs
+*.log
+
+# Ignore any temporary files
+.tmp
+
+# Ignore any build artifacts
+build/
+
+# Ignore any Docker specific files for development
+.docker/
+
+# Ignore any Docker compose files for development
+docker-compose.yml
+docker-compose.override.yml
+
+# Ignore any editor-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
