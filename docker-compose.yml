@@ -5,3 +5,4 @@ services:
     image: webapp:latest
     ports:
       - "80:80"
+    container_name: webapp
